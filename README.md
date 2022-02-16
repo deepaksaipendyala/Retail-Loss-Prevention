@@ -1,4 +1,4 @@
-# Retail-Loss-Prevention
+# Retail Loss Prevention Classification Project
 ## Hands On Lab: Retail Loss Prevention - Classification
 - [Click here for the full tutorial - classification.ipynb](https://github.com/deepaksaipendyala/Retail-Loss-Prevention/blob/c32196c1d1a9bf46d9616301610b08df9e77cc36/classification.ipynb)
 - [Click here to download Jupyter Notebook](classification.ipynb)
