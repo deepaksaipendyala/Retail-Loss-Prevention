@@ -1,6 +1,7 @@
 # Retail-Loss-Prevention
 ## Hands On Lab: Retail Loss Prevention - Classification
-- [Click here for the full tutorial - classification.ipynb](classification.ipynb)
+- [Click here for the full tutorial - classification.ipynb](https://github.com/deepaksaipendyala/Retail-Loss-Prevention/blob/c32196c1d1a9bf46d9616301610b08df9e77cc36/classification.ipynb)
+- [Click here to download Jupyter Notebook](classification.ipynb)
 - The above hands on lab is a deeper dive into retail loss prevention solutions.
 - To get hands on, Please go to Intel® DevCloud to start your hands on lab on [Jupyter Notebook](https://notebooks.edge.devcloud.intel.com/hub/login?next=/notebooks/Reference-samples/iot-devcloud/openvino-dev-latest/certification-program/English/classification/tutorial_classification.ipynb)
 - Note: You must have Intel Devcloud Account.
